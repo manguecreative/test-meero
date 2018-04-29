@@ -1,0 +1,8 @@
+easy_admin:
+    list:
+        actions: ['show']
+    entities:
+        # List the entity class name you want to manage
+        - App\Entity\MyOrder
+#        - App\Entity\Category
+#        - App\Entity\User
